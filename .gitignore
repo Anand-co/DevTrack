@@ -1,0 +1,15 @@
+# Java / Maven
+target/
+
+# Node / React
+node_modules/
+dist/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# IDE files
+.idea/
+.vscode/
